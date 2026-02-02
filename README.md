@@ -1,4 +1,4 @@
-# Hexapod Robot - Autonomous Walking Platform
+# Hexapod Robot
 
 **Full-cycle robotics project: from 3D design to functional prototype**
 
